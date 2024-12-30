@@ -34,9 +34,9 @@ const Main = () => {
                         />
                     </h2>
                     <div className='flex justify-between pt-6 max-w-[300px] w-full md:pl-20'>
-                    <a href='https://www.facebook.com/' target="_blank"><FaFacebookF className='cursor-pointer' size={20}/> </a>
-                    <a href='https://www.facebook.com/' target="_blank"><FaInstagram className='cursor-pointer' size={20} /> </a>
-                    <a href='https://www.facebook.com/' target="_blank"><FaLinkedinIn className='cursor-pointer' size={20} /> </a>
+                    <a href='https://www.facebook.com/mate.dohos' target="_blank"><FaFacebookF className='cursor-pointer' size={20}/> </a>
+                    <a href='https://www.instagram.com/matedohos/' target="_blank"><FaInstagram className='cursor-pointer' size={20} /> </a>
+                    <a href='https://www.linkedin.com/in/m%C3%A1t%C3%A9-dohos-5581862a4/' target="_blank"><FaLinkedinIn className='cursor-pointer' size={20} /> </a>
                     </div>
                 </div>
             </div>
