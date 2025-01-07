@@ -19,7 +19,7 @@ const Projects = () => {
         <ProjectItem img={sinamicsImg} title='Sinamics frequency converters in Evosoft  ' url='https://www.siemens.com/global/en/products/drives/sinamics/low-voltage-converters/standard-performance-frequency-converter/sinamics-g120.html'/>
         <ProjectItem img={steeringImg} title=' Front and Real wheel steering control system in Thyssen and Bosch ' url='https://www.bosch-mobility.com/en/solutions/steering/steer-by-wire/'/>
        </div>
-       <p id='resume' className='text-center py-8'>As you see webdeveloping is one of my skill that I really love to use and improve it day by day. I created this becasue I wanted to present myself more effeciently as a regular cv could. I hope I achieved my goals width this so if this portfolio caught your attention contact me via send a message. </p>
+       <p id='resume' className='text-center py-8'>As you see webdeveloping is one of my skill that I really love to use and improve it day by day. I collected knowledge related to html, css, javascript and React. My motto is something like this: 'a good priest learns until death'  that means don't affraid of to learn it if you don't know it yet. I created this short portfolio becasue I wanted to present myself more effeciently as a regular cv could. I hope I achieved my goals with this so if this portfolio caught your attention contact me via send a message. </p>
 
         </div>
     )

@@ -20,9 +20,9 @@ const Main = () => {
                                 2000, // wait 2s before replacing "Mice" with "Hamsters"
                                 'I am a Sw Tester',
                                 2000,
-                                'I am Team Leader',
+                                'I am a Team Leader',
                                 2000,
-                                'an Electrical Engineer with more than 10+ years',
+                                'an Electrical Engineer with more than 10+ years of experience',
                                 2000
 
                             ]}
