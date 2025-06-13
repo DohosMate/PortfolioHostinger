@@ -5,7 +5,7 @@ const data = [
         {
         year: 2025,
         title: "Harvey's - Automation Engineer",
-        remark: ' fullStack webapplication relatid knowledge',
+        remark: ' fullStack web application related knowledge',
         details:
             `• Test automation on both frontend and backend using modern tools and frameworks
 • Playwright: Developing end-to-end tests for frontend interfaces as well as automating backend APIs via direct HTTP requests
