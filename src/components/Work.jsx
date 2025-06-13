@@ -2,6 +2,23 @@ import React from 'react'
 import WorkItem from './WorkItem'
 
 const data = [
+        {
+        year: 2025,
+        title: "Harvey's - Automation Engineer",
+        remark: ' fullStack webapplication relatid knowledge',
+        details:
+            `• Test automation on both frontend and backend using modern tools and frameworks
+• Playwright: Developing end-to-end tests for frontend interfaces as well as automating backend APIs via direct HTTP requests
+• REST API automation using Apidog and Postman, including authentication, data handling, and error scenario validation
+• Integration of test suites into CI/CD pipelines for automated execution on each build
+• Dynamic test data generation and use of environment variables to support multi-environment setups
+• Working with Devops-based task tracking
+• Active participation in code reviews and maintenance
+• Utilizing GitHub Copilot to accelerate and streamline test implementation with structured, maintainable code
+• Version control with GitLab: experienced in branching strategies, merge requests, and handling CI pipelines through GitLab
+• Proficient in frontend technologies: JavaScript, React, HTML, and CSS — supporting deeper understanding of application behavior and UI validation
+• Capable of validating both functional behavior and visual aspects of the UI through code-driven testing approaches`
+    },
     {
         year: 2023,
         title: 'Bosch - Software Architect',
